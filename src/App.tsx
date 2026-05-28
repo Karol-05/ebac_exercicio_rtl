@@ -5,7 +5,7 @@ import styles from './App.module.css';
 function App() {
   return (
     <div className={styles.app}>
-      <Post imageUrl="https://www.orangeboxminiaturas.com.br/img/products/batmovel-1989-figura-batman-em-metal-jada-toys-1-24-jad-98260_1_1000.jpg">
+      <Post imageUrl="https://cdn.awsli.com.br/600x700/952/952032/produto/356807833/batmovel-01-4xmmjo4h7z.png">
         Olha só que legal minha miniatura do Batmóvel.
       </Post>
     </div>
